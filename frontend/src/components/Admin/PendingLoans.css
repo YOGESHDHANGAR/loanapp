@@ -1,0 +1,59 @@
+.pendingloans_main {
+  padding: 0 2vmax;
+}
+
+.pendingloans_header_row {
+  display: flex;
+  justify-content: space-between;
+}
+.left_header {
+  display: flex;
+}
+
+.left_header > h2 {
+  margin-right: 20vmax;
+}
+
+.right_header {
+  display: flex;
+}
+
+.pendingloans_each_loan_link_div {
+  border-bottom-style: groove;
+}
+
+.pendingloans_each_loan_link {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5vmax 0;
+  text-decoration: none;
+  color: black;
+}
+
+.pendingloans_each_loan_link:hover {
+  color: blue;
+}
+
+.no_pending_loans {
+  display: flex;
+  justify-content: center;
+  color: green;
+}
+
+.accept_button {
+  background-color: rgb(1, 77, 1);
+  padding: 5px 15px;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  margin: 4px;
+}
+
+.reject_button {
+  background-color: rgb(156, 1, 1);
+  padding: 5px 15px;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  margin: 4px;
+}

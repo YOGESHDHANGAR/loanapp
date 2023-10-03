@@ -1,0 +1,29 @@
+.home_main {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(251, 163, 0);
+  height: 80vh;
+  align-items: center;
+  padding: 2vmax 0vmax 2vmax 12vmax;
+}
+.home_title {
+  font-size: 5vmax;
+  padding-bottom: 18vmax;
+}
+
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0vmax 12vmax;
+  height: 75vh;
+}
+
+.banner_title {
+  font-size: 4vmax;
+  margin: 5px 0;
+}
+
+.banner_text {
+  margin: 50px 0;
+}

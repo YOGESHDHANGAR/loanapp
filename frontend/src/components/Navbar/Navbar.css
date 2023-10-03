@@ -1,0 +1,33 @@
+.navbar_main {
+  background-color: rgb(22, 22, 22);
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.3vmax 1.5vmax;
+}
+
+.company_and_role {
+  display: flex;
+}
+
+.company_and_role > h3 {
+  color: white;
+}
+.navlink {
+  color: white;
+  text-decoration: none;
+  margin: 0px 10px;
+}
+
+.navlink:hover {
+  color: rgb(61, 250, 61);
+  font-size: 1.1rem;
+}
+
+.navlink.active {
+  color: green;
+  font-size: 1.1rem;
+}
+.navline_otherthan_company {
+}

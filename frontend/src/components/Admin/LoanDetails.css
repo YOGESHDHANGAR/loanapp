@@ -1,0 +1,34 @@
+.loandetails_main {
+  display: flex;
+  padding: 2vmax;
+}
+
+.loandetails_div {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10vmax;
+  margin-left: 5vmax;
+}
+
+.loandetails_div > p {
+  border-bottom-style: groove;
+  margin: 5px 0;
+  font-size: 1.2vmax;
+}
+
+.scheduled_payments_header {
+  display: flex;
+}
+.scheduled_payments_header > h3 {
+  margin-right: 8vmax;
+}
+
+.emi_details {
+  display: flex;
+}
+
+.emi_details > p {
+  flex: 0.3333;
+  border-bottom-style: groove;
+  margin: 8px 0;
+}

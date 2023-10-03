@@ -1,0 +1,28 @@
+.user_loans_main {
+  padding: 0 2vmax;
+}
+
+.header_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_row_right {
+  display: flex;
+}
+
+.each_loan_link {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5vmax 0;
+  text-decoration: none;
+  color: black;
+}
+
+.each_loan_link_div {
+  border-bottom-style: groove;
+}
+
+.each_loan_link:hover {
+  color: blue;
+}

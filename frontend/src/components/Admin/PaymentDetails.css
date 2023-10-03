@@ -1,0 +1,11 @@
+.paymentdetails_main {
+  display: flex;
+  flex-direction: column;
+  margin: 5vmax 30vmax;
+}
+
+.paymentdetails_main > p {
+  border-bottom-style: groove;
+  margin: 5px 0;
+  font-size: 1.2vmax;
+}

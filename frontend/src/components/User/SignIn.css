@@ -1,0 +1,24 @@
+.loginsignin_main {
+  display: flex;
+  justify-content: center;
+  border-style: 1px solid;
+  height: 80vh;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.lable {
+  margin: 15px 0;
+}
+
+.input {
+  width: 100%;
+}
+
+.submitButton {
+  margin: 1vmax 0;
+}

@@ -14,3 +14,6 @@ Requirements
    run command "node server.js" file it will start backend in port 7532
 
 \*config file is not ignored , it is also attached
+
+\*Video for Explanation of Project
+https://youtu.be/6-byvYtLYcY
